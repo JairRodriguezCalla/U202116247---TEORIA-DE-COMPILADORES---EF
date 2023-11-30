@@ -1,0 +1,2 @@
+ASSIGN x, 10
+IF x > 5, ["print('x es mayor que 5')"]
